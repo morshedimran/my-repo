@@ -19,9 +19,7 @@ For details, see the source code comment of each part.
 This software is designed to dynamically link with dependent libraries using maven.
 See the pom.xml file for the dependent libraries.
 
-<<<<<<< HEAD
-****************************************************
-****************************************************
-=======
-#################################################################
->>>>>>> 29a648ee0d91dd7c8afcc38bd1cccad043b43265
+
+***************************************************
+
+***************************************************
